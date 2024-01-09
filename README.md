@@ -65,11 +65,11 @@ http://localhost:8080/api/productos
 
 
 En caso de guardarse devuelve el siguiente mensaje:
-**Producto guardado**
+**Producto guardado**</br>
 En caso de que el microservicio stock tenga algún problema, devolverá el siguiente mensaje:
 **El microservicio Stock esta desconectado**
 
-<br>
+</br>
 
 #### Reserva
 Para poder guardar una reserva en la base de datos de reserva:
