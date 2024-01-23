@@ -3,6 +3,15 @@
 ![Static Badge](https://img.shields.io/badge/Estado%20-%20Terminado%20-%20green)
 
 
+## Tabla de contenido
+* [Introducción](#Introducción)
+* [Tabla de contenido](#Tabla-de-contenido)
+* [Tipo de proyecto](#Tipo-de-proyecto)
+* [Tecnologías utilizadas](#Tecnologías-utilizadas)
+* [Instalación](#Instalación)
+* [Uso](#Uso)
+
+
 ## Introducción
 Proyecto personal creado para mostrar mis conocimientos sobre Java y Spring.
 Lo que se busca con este proyecto es crear distintos microserivicios que se comunican
@@ -14,7 +23,7 @@ repositorio:
 ## Tipo de proyecto
 Proyecto individual
 
-## Tecnologías usadas
+## Tecnologías utilizadas
 - Java
 - Spring Cloud Config
 - Spring Cloud Gateway
