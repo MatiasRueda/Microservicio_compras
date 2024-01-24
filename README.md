@@ -2,6 +2,14 @@
 
 ![Static Badge](https://img.shields.io/badge/Estado%20-%20Terminado%20-%20green)
 
+## Introducción
+Proyecto personal creado para mostrar mis conocimientos sobre Java y Spring.
+Lo que se busca con este proyecto es crear distintos microserivicios que se comunican
+entre si para poder formar un server de reservas.
+Para poder acceder a la configuracion que utiliza este proyecto dirigirse al siguiente
+repositorio: 
+<a href="https://github.com/MatiasRueda/Microservicios_reservas_configuracion">Configuracion</a>
+
 
 ## Tabla de contenido
 * [Introducción](#Introducción)
@@ -11,14 +19,6 @@
 * [Instalación](#Instalación)
 * [Uso](#Uso)
 
-
-## Introducción
-Proyecto personal creado para mostrar mis conocimientos sobre Java y Spring.
-Lo que se busca con este proyecto es crear distintos microserivicios que se comunican
-entre si para poder formar un server de reservas.
-Para poder acceder a la configuracion que utiliza este proyecto dirigirse al siguiente
-repositorio: 
-<a href="https://github.com/MatiasRueda/Microservicios_reservas_configuracion">Configuracion</a>
 
 ## Tipo de proyecto
 Proyecto individual
